@@ -1,11 +1,25 @@
-body {font-family: sans-serif;
+body {
+	font-family: helvetica, sans-serif;
+	
+	color:#686868;
+	width:800px;
+	margin:auto;
+	}
 
 
+img { 
+  vertical-align: left;
 }
+    
+nav{margin:top;
+	}
 
 
-img.center {
-display: block;
-    margin-left: auto;
-    margin-right: auto
+th{
+	text-align:left;
+	}
+
+colgroup{
+	margin-left:0 0px;
+	text-align:top;
 }

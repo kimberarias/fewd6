@@ -1,0 +1,47 @@
+a {
+	color:#D00;
+	}
+
+body{
+	font-family:'lato', helvetica, sans-serif;
+	font-weight:300;
+	width:800px;
+	margin:auto;
+	}
+
+h1 {
+	font-weight:300;
+	font-size:30px;
+	}
+
+h2{
+	font-weight:300;
+	font-size:20px;
+	color:#444;
+	}
+h2 a{
+	font-weight:300;
+	font-size:20px;
+	color:#444;
+}
+
+nav a{
+	color:#DDD;
+	font-size:20px;
+	margin:0 6px;
+	}
+
+h3{
+	color:#DDD;
+	margin:10;
+	font-weight:300;
+	font-size:24px;
+
+}
+h4 a{
+	float:right;
+}
+
+img {
+	width:100%;
+}
